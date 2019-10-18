@@ -64,6 +64,14 @@ ol {
   font-size: 17px;
 }
 
+.size-about {
+  font-size: 17px;
+}
+
 #bg {
   background-color: #b7c4c9;
+}
+
+#bottom {
+  padding-bottom: 40px;
 }
