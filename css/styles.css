@@ -14,6 +14,10 @@ h1 {
   display: block;
 }
 
+#home {
+  padding: 15px;
+}
+
 #About {
   padding: 15px;
 }
