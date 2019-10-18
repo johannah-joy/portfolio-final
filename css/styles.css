@@ -14,11 +14,11 @@ h1 {
   display: block;
 }
 
-.About {
+#About {
   padding: 15px;
 }
 
-.Contact {
+#Contact {
 
 }
 
@@ -53,4 +53,8 @@ h1 {
 
 ol {
   font-size: 17px;
+}
+
+#bg {
+  background-color: #b7c4c9;
 }
