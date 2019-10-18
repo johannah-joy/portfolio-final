@@ -10,7 +10,7 @@ h1 {
   color: #6b32a8;
 }
 
-.bar-top {
+.container {
   display: block;
 }
 
@@ -19,10 +19,14 @@ h1 {
 }
 
 #Contact {
-
+  padding: 15px;
 }
 
-.well {
+blockquote {
+  padding: 50px;
+}
+
+#well {
   background-color: #cf8927
 }
 
@@ -44,7 +48,8 @@ h1 {
 
 #me {
   color: #50a832;
-  padding: 30px;
+  padding: 20px;
+  text-align: center;
 }
 
 #ol {
