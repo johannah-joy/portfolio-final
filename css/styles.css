@@ -22,9 +22,21 @@ h1 {
 
 }
 
-img {
+.well {
+  background-color: #cf8927
+}
+
+#valley {
   width: 30%;
   height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#thanks {
+  width: 60%;
+  height: 40%;
   display: block;
   margin-left: auto;
   margin-right: auto;
