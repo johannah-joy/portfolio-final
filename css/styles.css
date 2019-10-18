@@ -28,6 +28,7 @@ h1 {
 
 blockquote {
   padding: 50px;
+  float: right;
 }
 
 #well {
@@ -74,4 +75,10 @@ ol {
 
 #bottom {
   padding-bottom: 40px;
+}
+
+#army {
+  float: right;
+  width: 37%;
+  height: 37%;
 }
