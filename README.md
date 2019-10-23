@@ -12,6 +12,7 @@ _The purpose of this file is to create a site about me using the programming too
 
 * _You will need a current browser_
 * _You will need internet connection_
+* _In order to access the webpage, use this link: https://johannah-joy.github.io/portfolio-final/ _
 
 ## Known Bugs
 
